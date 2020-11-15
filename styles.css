@@ -1,0 +1,58 @@
+div.content {
+    margin: 2%;
+}
+
+body {
+    display: block;
+    background-color: white;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 2.1em;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+.headers {
+    width: 60%;
+    display: table;
+    margin: 0 auto;
+}
+
+.byline {
+    width: 60%;
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.dateline {
+    width: 60%;
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+.intro-section {
+    width: 70%;
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    font-size: 0.9em;
+}
+
+.graphs {
+    max-width: 600px;
+    margin: 0 auto 10px auto;
+    padding: 0 10px;
+}
+
+footer {
+    text-align: center;
+    font-size: 11px;
+    background-color: #edf8fb;
+}
