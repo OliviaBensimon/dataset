@@ -28,6 +28,18 @@ h1 {
     text-align: center;
 }
 
+.lede-art {
+    width: 100%;
+    display: table;
+    text-align: center;
+}
+
+.lede-art-caption {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.9em;
+}
+
 .dateline {
     width: 60%;
     display: table;
